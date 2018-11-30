@@ -1,4 +1,4 @@
-# Pengembangan-Aplikasi-Pelayanan-Kependudukan-Akta-Kelahiran
+# Pengembangan Aplikasi Pelayanan Kependudukan
 
 **ABSTRAK**
 
